@@ -14,10 +14,10 @@ export default function Button({
   className = "",
 }: ButtonProps) {
   const baseStyles =
-    "inline-flex items-center justify-center rounded-full px-6 py-3 text-sm font-semibold transition duration-200 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2";
+    "inline-flex items-center justify-center rounded-md px-6 py-3 text-sm font-semibold focus:outline-none focus:ring-2 focus:ring-emerald-600 focus:ring-offset-2";
   const variants = {
     primary:
-      "bg-sky-700 text-white hover:bg-sky-800 shadow-sm",
+      "bg-emerald-800 text-white hover:bg-emerald-900",
     secondary:
       "border border-slate-300 bg-white text-slate-800 hover:border-sky-600 hover:text-sky-700",
   };

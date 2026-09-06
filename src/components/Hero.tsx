@@ -28,9 +28,8 @@ export default function Hero({
           className="object-cover opacity-60"
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-900/85 to-sky-950/70" />
+        <div className="absolute inset-0 bg-slate-950/70" />
       </div>
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(125,211,252,0.35),_transparent_35%)]" />
       <div className="relative mx-auto flex max-w-7xl flex-col gap-10 px-6 py-24 sm:px-8 lg:flex-row lg:items-end lg:justify-between lg:px-12 lg:py-32">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
@@ -61,7 +60,7 @@ export default function Hero({
           initial={{ opacity: 0, x: 24 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.7, delay: 0.1 }}
-          className="max-w-sm rounded-3xl border border-white/20 bg-white/10 p-6 backdrop-blur-xl"
+          className="max-w-sm rounded-md border border-white/30 bg-slate-950/70 p-6"
         >
           <p className="text-sm font-semibold uppercase tracking-[0.25em] text-sky-200">
             Community-led climate action

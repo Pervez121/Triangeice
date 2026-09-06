@@ -14,13 +14,13 @@ export default function ClimateChangePage() {
             description="The changing climate is reshaping glaciers, rivers, and the lives of people who depend on them."
           />
           <div className="mt-10 grid gap-8 lg:grid-cols-2">
-            <div className="rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+            <div className="rounded-md border border-slate-200 bg-white p-8">
               <h2 className="text-2xl font-semibold text-slate-900">Why it matters</h2>
               <p className="mt-4 text-lg leading-8 text-slate-600">
                 Rising temperatures accelerate glacier melt, intensify water stress, and increase risk for communities already facing environmental vulnerability.
               </p>
             </div>
-            <div className="rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+            <div className="rounded-md border border-slate-200 bg-white p-8">
               <h2 className="text-2xl font-semibold text-slate-900">How we respond</h2>
               <p className="mt-4 text-lg leading-8 text-slate-600">
                 We offer education, strengthen community awareness, and support solutions that help people adapt and act with confidence.

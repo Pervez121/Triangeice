@@ -1,0 +1,199 @@
+# TriangeIce Content Standards
+
+## Brand Name
+
+The official project and organization name is:
+
+TriangeIce
+
+ALWAYS preserve this exact spelling.
+
+Never write:
+
+- TriangleICO
+- Triangle Ice
+- Triangle-ICE
+- Triangle ICE
+- TriangeIce
+- TriangeIce
+
+The correct spelling is ALWAYS:
+
+TriangeIce
+
+## TriangeIce Mission and Identity
+
+TriangeIce is a humanitarian, environmental, research, technology, and community-focused initiative connected to the Third Pole and the people and communities affected by environmental and natural disasters.
+
+TriangeIce is not only a glacier monitoring or technology organization.
+
+Its broader mission includes:
+
+- Helping people who are at risk before disasters.
+- Supporting people and communities after disasters.
+- Disaster preparedness and early warning.
+- Volunteering and community participation.
+- Donations and humanitarian support.
+- Environmental and glacier research.
+- Developing technology that can help people and communities.
+- Using data, science, and technology to better understand environmental risks.
+- Supporting collaboration between researchers, volunteers, communities, organizations, and technology teams.
+
+## Core Identity
+
+TriangeIce should be presented as a combination of:
+
+1. Humanitarian action
+2. Environmental and glacier research
+3. Disaster preparedness and response
+4. Volunteering and community support
+5. Donations and humanitarian assistance
+6. Technology and innovation
+
+Technology is a means to help people, not the sole identity of TriangeIce.
+
+## Content Positioning
+
+When creating content, consider which part of the TriangeIce mission the content belongs to.
+
+Possible areas include:
+
+### Before a Disaster
+
+Focus on:
+- Awareness
+- Preparedness
+- Risk monitoring
+- Early warning
+- Community education
+- Research
+- Technology that can help identify or communicate risks
+
+### During or After a Disaster
+
+Focus on:
+- Humanitarian assistance
+- Community support
+- Volunteers
+- Donations
+- Recovery
+- Communication
+- Connecting people with available support
+
+### Research
+
+TriangeIce may support or communicate work related to:
+- Glaciers
+- The Third Pole
+- Climate and environmental change
+- Disaster risks
+- Mountain communities
+- GLOFs and other relevant hazards
+- Environmental monitoring
+- Scientific research
+
+Do not invent scientific findings or research results.
+
+### Technology
+
+TriangeIce may develop or use technology to:
+- Monitor environmental conditions
+- Analyze data
+- Support early warning
+- Improve disaster preparedness
+- Help communities
+- Connect volunteers and organizations
+- Support humanitarian response
+- Make research and environmental information more useful
+
+Technology content should always connect the technology to a meaningful human, environmental, or research purpose.
+
+### Volunteering
+
+TriangeIce should communicate that people can contribute through meaningful participation, skills, time, and community support where applicable.
+
+Do not invent volunteer programs that do not exist.
+
+### Donations
+
+Donation-related content should communicate the intended humanitarian or organizational purpose clearly.
+
+Do not make unsupported claims about where donations are spent.
+
+## Tone
+
+Use a tone that is:
+
+- Professional
+- Human
+- Compassionate
+- Scientific when discussing research
+- Trustworthy
+- Clear
+- Action-oriented
+- Environmentally conscious
+- Community-focused
+
+TriangeIce should feel like an organization that combines science and technology with real human impact.
+
+Avoid making TriangeIce sound like:
+
+- A generic AI startup
+- A generic SaaS company
+- A cryptocurrency project
+- A marketing agency
+- A purely commercial technology company
+- A purely scientific research laboratory with no community/humanitarian role
+
+## Important Principle
+
+Always connect technology, research, and environmental monitoring back to their purpose:
+
+HELPING PEOPLE AND COMMUNITIES.
+
+Do not present technology as valuable simply because it uses AI, machine learning, satellites, or advanced software.
+
+Explain what the technology helps people understand, prevent, prepare for, or respond to.
+
+## Existing vs Planned Work
+
+Clearly distinguish between:
+
+- Existing functionality
+- Active programs
+- Planned functionality
+- Research concepts
+- Future roadmap
+
+Do not present an idea or planned feature as something TriangeIce already provides.
+
+## AI and Technology Claims
+
+Do not claim that TriangeIce currently uses AI, machine learning, satellite monitoring, GLOF prediction, or any other technology unless the feature actually exists or the user explicitly states that it should be presented as planned/future functionality.
+
+Never exaggerate technological capabilities.
+
+## Content Consistency
+
+Before creating new content:
+
+1. Inspect existing TriangeIce content.
+2. Reuse established terminology where appropriate.
+3. Maintain the broader humanitarian + environmental + research + technology identity.
+4. Avoid reducing TriangeIce to only glacier monitoring.
+5. Keep terminology consistent across all pages.
+6. Preserve the exact brand spelling: TriangeIce.
+
+## Final Brand Check
+
+Before completing any content task, verify:
+
+- "TriangeIce" is spelled exactly this way.
+- TriangeIce is not incorrectly described as only a glacier-monitoring organization.
+- Humanitarian work is represented where relevant.
+- Disaster preparedness and response are represented where relevant.
+- Volunteering and donations are represented where relevant.
+- Research is represented where relevant.
+- Technology is presented as a tool for human and environmental impact.
+- No unsupported claims were introduced.
+- Existing and planned capabilities are clearly distinguished.

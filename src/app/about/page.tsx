@@ -23,7 +23,7 @@ export default function AboutPage() {
                 We work with volunteers, local communities, educators, supporters, and innovators to protect mountain ecosystems and strengthen resilience in climate-vulnerable regions.
               </p>
             </div>
-            <div className="rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+            <div className="rounded-md border border-slate-200 bg-white p-8">
               <h2 className="text-2xl font-semibold text-slate-900">Our focus</h2>
               <ul className="mt-6 space-y-3 text-slate-600">
                 <li>• Climate awareness and public education</li>
@@ -43,15 +43,15 @@ export default function AboutPage() {
               description="Our work is grounded in compassion, collaboration, and long-term care for the natural systems that sustain life."
             />
             <div className="mt-10 grid gap-6 md:grid-cols-3">
-              <div className="rounded-3xl border border-slate-200 bg-slate-50 p-8">
+              <div className="rounded-md border border-slate-200 bg-slate-50 p-8">
                 <h3 className="text-xl font-semibold text-slate-900">Awareness</h3>
                 <p className="mt-3 text-slate-600">We share accessible information about glacier melt and climate change impacts.</p>
               </div>
-              <div className="rounded-3xl border border-slate-200 bg-slate-50 p-8">
+              <div className="rounded-md border border-slate-200 bg-slate-50 p-8">
                 <h3 className="text-xl font-semibold text-slate-900">Community</h3>
                 <p className="mt-3 text-slate-600">We connect people who care and want to act together for environmental protection.</p>
               </div>
-              <div className="rounded-3xl border border-slate-200 bg-slate-50 p-8">
+              <div className="rounded-md border border-slate-200 bg-slate-50 p-8">
                 <h3 className="text-xl font-semibold text-slate-900">Action</h3>
                 <p className="mt-3 text-slate-600">We support practical projects that improve resilience and inspire long-term stewardship.</p>
               </div>
@@ -60,7 +60,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mx-auto max-w-7xl px-6 py-20 sm:px-8 lg:px-12">
-          <div className="rounded-3xl bg-sky-950 p-10 text-white">
+          <div className="rounded-md bg-sky-950 p-10 text-white">
             <h2 className="text-3xl font-semibold">Join the mission</h2>
             <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-200">
               Whether you volunteer, donate, or share our message, you help build a stronger movement around mountain ecosystems and glacier protection.

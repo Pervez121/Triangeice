@@ -25,16 +25,16 @@ export default async function DashboardLayout({ children }: { children: React.Re
           <h2 className="mt-2 text-2xl font-semibold">Admin Dashboard</h2>
         </div>
         <nav className="space-y-2 text-sm">
-          <Link className="block rounded-xl px-4 py-3 hover:bg-white/10" href="/dashboard">Overview</Link>
-          <Link className="block rounded-xl px-4 py-3 hover:bg-white/10" href="/dashboard/users">Users</Link>
-          <Link className="block rounded-xl px-4 py-3 hover:bg-white/10" href="/dashboard/teams">Teams</Link>
-          <Link className="block rounded-xl px-4 py-3 hover:bg-white/10" href="/dashboard/volunteers">Volunteers</Link>
-          <Link className="block rounded-xl px-4 py-3 hover:bg-white/10" href="/dashboard/content">Content</Link>
-          <Link className="block rounded-xl px-4 py-3 hover:bg-white/10" href="/dashboard/badges">Badges</Link>
+          <Link className="block rounded-md px-4 py-3 hover:bg-white/10" href="/dashboard">Overview</Link>
+          <Link className="block rounded-md px-4 py-3 hover:bg-white/10" href="/dashboard/users">Users</Link>
+          <Link className="block rounded-md px-4 py-3 hover:bg-white/10" href="/dashboard/teams">Teams</Link>
+          <Link className="block rounded-md px-4 py-3 hover:bg-white/10" href="/dashboard/volunteers">Volunteers</Link>
+          <Link className="block rounded-md px-4 py-3 hover:bg-white/10" href="/dashboard/content">Content</Link>
+          <Link className="block rounded-md px-4 py-3 hover:bg-white/10" href="/dashboard/badges">Badges</Link>
         </nav>
 
         <form action={handleLogout} className="mt-8">
-          <button type="submit" className="w-full rounded-xl border border-white/10 px-4 py-3 text-left text-sm hover:bg-white/10">
+          <button type="submit" className="w-full rounded-md border border-white/10 px-4 py-3 text-left text-sm hover:bg-white/10">
             Sign out
           </button>
         </form>

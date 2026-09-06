@@ -15,13 +15,13 @@ export default function ContactPage() {
             description="We welcome inquiries from volunteers, partners, supporters, and communities who want to collaborate."
           />
           <div className="mt-10 grid gap-8 lg:grid-cols-[1fr_0.8fr]">
-            <div className="rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+            <div className="rounded-md border border-slate-200 bg-white p-8">
               <h2 className="text-2xl font-semibold text-slate-900">Get in touch</h2>
               <p className="mt-4 text-lg leading-8 text-slate-600">
                 Reach out to learn more about our work, share ideas, or explore opportunities to support the mission.
               </p>
             </div>
-            <div className="rounded-3xl border border-slate-200 bg-slate-900 p-8 text-white shadow-sm">
+            <div className="rounded-md border border-slate-200 bg-slate-900 p-8 text-white">
               <h2 className="text-2xl font-semibold">Contact details</h2>
               <ul className="mt-6 space-y-3 text-slate-300">
                 <li>Email: hello@triangeice.org</li>

@@ -13,7 +13,7 @@ export default function ResearchPage() {
             title="Supporting ideas that protect glaciers and people"
             description="We encourage meaningful research, innovation, and knowledge sharing that supports practical climate solutions."
           />
-          <div className="mt-10 rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+          <div className="mt-10 rounded-md border border-slate-200 bg-white p-8">
             <p className="text-lg leading-8 text-slate-600">
               Our approach combines community experience with emerging climate knowledge, helping connect local insight with wider environmental understanding.
             </p>

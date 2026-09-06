@@ -40,7 +40,7 @@ export default function LoginPage() {
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-slate-950 px-6 py-16 text-slate-100">
-      <div className="w-full max-w-md rounded-3xl border border-white/10 bg-slate-900 p-8 shadow-2xl shadow-black/30">
+      <div className="w-full max-w-md rounded-md border border-white/10 bg-slate-900 p-8">
         <p className="text-sm uppercase tracking-[0.3em] text-sky-300">Triangeice</p>
         <h1 className="mt-3 text-3xl font-semibold">Secure admin access</h1>
         <p className="mt-3 text-slate-400">Sign in to access the protected NGO dashboard.</p>
@@ -52,7 +52,7 @@ export default function LoginPage() {
               type="email"
               value={email}
               onChange={(event) => setEmail(event.target.value)}
-              className="w-full rounded-2xl border border-white/10 bg-slate-800 px-4 py-3 outline-none ring-0"
+              className="w-full rounded-md border border-white/10 bg-slate-800 px-4 py-3 outline-none ring-0 focus:border-sky-400"
               placeholder="admin@triangeice.org"
             />
           </label>
@@ -62,11 +62,11 @@ export default function LoginPage() {
               type="password"
               value={password}
               onChange={(event) => setPassword(event.target.value)}
-              className="w-full rounded-2xl border border-white/10 bg-slate-800 px-4 py-3 outline-none ring-0"
+              className="w-full rounded-md border border-white/10 bg-slate-800 px-4 py-3 outline-none ring-0 focus:border-sky-400"
               placeholder="••••••••"
             />
           </label>
-          <button type="submit" disabled={loading} className="w-full rounded-2xl bg-sky-600 px-4 py-3 font-semibold text-white transition hover:bg-sky-500 disabled:cursor-not-allowed disabled:opacity-70">
+          <button type="submit" disabled={loading} className="w-full rounded-md bg-sky-600 px-4 py-3 font-semibold text-white hover:bg-sky-500 disabled:cursor-not-allowed disabled:opacity-70">
             {loading ? "Signing in..." : "Continue to dashboard"}
           </button>
         </form>

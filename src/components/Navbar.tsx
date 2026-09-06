@@ -13,14 +13,14 @@ const links = [
 
 export default function Navbar() {
   return (
-    <header className="border-b border-slate-200 bg-white/90 backdrop-blur">
+    <header className="border-b border-slate-200 bg-white">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 sm:px-8 lg:px-12">
-        <Link href="/" className="text-lg font-semibold tracking-wide text-slate-900">
+        <Link href="/" className="text-lg font-semibold tracking-wide text-slate-900 hover:text-emerald-800">
           Triangeice Institute
         </Link>
         <nav aria-label="Primary navigation" className="hidden gap-6 text-sm font-medium text-slate-700 md:flex">
           {links.map((link) => (
-            <Link key={link.href} href={link.href} className="transition hover:text-sky-700">
+              <Link key={link.href} href={link.href} className="hover:text-emerald-700">
               {link.label}
             </Link>
           ))}

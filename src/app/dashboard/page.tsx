@@ -24,14 +24,14 @@ export default async function DashboardPage() {
 
       <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
         {stats.map((stat) => (
-          <div key={stat.label} className="rounded-3xl border border-white/10 bg-slate-900 p-6 shadow-2xl shadow-black/20">
+          <div key={stat.label} className="rounded-md border border-white/10 bg-slate-900 p-6">
             <p className="text-sm text-slate-400">{stat.label}</p>
             <p className="mt-3 text-3xl font-semibold text-white">{stat.value}</p>
           </div>
         ))}
       </div>
 
-      <div className="rounded-3xl border border-white/10 bg-slate-900 p-6">
+      <div className="rounded-md border border-white/10 bg-slate-900 p-6">
         <h2 className="text-xl font-semibold">Foundation ready</h2>
         <p className="mt-3 max-w-2xl text-slate-400">
           The backend foundation is now in place with Prisma-backed data models, role-based access controls, and a protected dashboard shell.

@@ -1,8 +1,13 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f5f7f5;
+  --foreground: #17231f;
+  --surface: #ffffff;
+  --line: #d7e0dc;
+  --muted: #52635c;
+  --accent: #176b5a;
+  --accent-dark: #105142;
 }
 
 @theme inline {
@@ -15,5 +20,16 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), sans-serif;
+}
+
+::selection {
+  background: #b9ded3;
+  color: #102d25;
+}
+
+button,
+a,
+input {
+  transition: color 160ms ease, background-color 160ms ease, border-color 160ms ease, opacity 160ms ease;
 }

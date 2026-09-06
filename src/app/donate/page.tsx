@@ -14,7 +14,7 @@ export default function DonatePage() {
             title="Support climate action with a gift"
             description="Your donation helps expand awareness, strengthen support programs, and sustain community-focused environmental work."
           />
-          <div className="mt-10 rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+          <div className="mt-10 rounded-md border border-slate-200 bg-white p-8">
             <p className="text-lg leading-8 text-slate-600">
               Donations help fund public education, local outreach, resilience projects, and the infrastructure needed to continue this important work.
             </p>
